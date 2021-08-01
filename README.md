@@ -16,14 +16,14 @@
   will kick off the React scripts and load it on a localhost.
   ## Usage
   
-![Image of About me section](.\src\assets\imgs\readme-imgs\Macks-portfolio-about-me.png)
+  ![Image of About me section](https://github.com/MackFolds/macks-react-portfolio/blob/main/src/assets/imgs/readme-imgs/Macks-portfolio-about-me.png?raw=true)
 
-![Image of Contact me section](src\assets\imgs\readme-imgs\Macks-portfolio-contact-me.png)
+  ![Image of Contact me section](https://github.com/MackFolds/macks-react-portfolio/blob/main/src/assets/imgs/readme-imgs/Macks-portfolio-contact-me.png?raw=true)
 
-![Image of My projects section](src\assets\imgs\readme-imgs\Macks-portfolio-my-projects.png)
+  ![Image of My projects section](https://github.com/MackFolds/macks-react-portfolio/blob/main/src/assets/imgs/readme-imgs/Macks-portfolio-my-projects.png?raw=true)
 
-![Image of resume section](src\assets\imgs\readme-imgs\Macks-portfolio-resume.png)
-
+  ![Image of resume section](https://github.com/MackFolds/macks-react-portfolio/blob/main/src/assets/imgs/readme-imgs/Macks-portfolio-resume.png?raw=true)
+  
   ## Languages
   JavaScript<br>CSS<br>React.js<br>Bootstrap 5
   ## Contributing
