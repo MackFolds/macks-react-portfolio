@@ -15,10 +15,10 @@
   ### `npm start` 
   will kick off the React scripts and load it on a localhost.
   ## Usage
-  ![Image of About me section](.\src\assets\imgs\readme-imgs\Macks-portfolio-about-me.png)
-  ![Image of Contact me section](src\assets\imgs\readme-imgs\Macks-portfolio-contact-me.png)
-  ![Image of My projects section](src\assets\imgs\readme-imgs\Macks-portfolio-my-projects.png)
-  ![Image of resume section](src\assets\imgs\readme-imgs\Macks-portfolio-resume.png)
+![Image of About me section](.\src\assets\imgs\readme-imgs\Macks-portfolio-about-me.png)
+![Image of Contact me section](src\assets\imgs\readme-imgs\Macks-portfolio-contact-me.png)
+![Image of My projects section](src\assets\imgs\readme-imgs\Macks-portfolio-my-projects.png)
+![Image of resume section](src\assets\imgs\readme-imgs\Macks-portfolio-resume.png)
   ## Languages
   JavaScript<br>CSS<br>React.js<br>Bootstrap 5
   ## Contributing
