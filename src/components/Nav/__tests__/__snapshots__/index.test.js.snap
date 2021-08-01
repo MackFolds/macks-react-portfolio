@@ -1,0 +1,78 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Nav component matches snapshot 1`] = `
+<DocumentFragment>
+  <header>
+    <nav
+      class="navbar navbar-expand-sm"
+      data-testid="navbar"
+    >
+      <div
+        class="container-fluid "
+      >
+        <a
+          class="navbar-brand"
+          data-testid="link"
+          href="/portfolio-react"
+        >
+          <h1>
+            Mack's Portfolio
+          </h1>
+        </a>
+        <ul
+          class="navbar-nav "
+        >
+          <li
+            class="undefined"
+          >
+            <a
+              class="nav-link active"
+              href="#about"
+            >
+              <h3>
+                About Mack
+              </h3>
+            </a>
+          </li>
+          <li
+            class="undefined"
+          >
+            <a
+              class="nav-link active"
+              href="#work"
+            >
+              <h3>
+                My Projects
+              </h3>
+            </a>
+          </li>
+          <li
+            class="undefined"
+          >
+            <a
+              class="nav-link active"
+              href="#contact-me"
+            >
+              <h3>
+                Contact Me
+              </h3>
+            </a>
+          </li>
+          <li
+            class="undefined"
+          >
+            <a
+              class="nav-link active"
+              href="#resume"
+            >
+              <h3>
+                Resume
+              </h3>
+            </a>
+          </li>
+        </ul>
+      </div>
+    </nav>
+  </header>
+</DocumentFragment>
+`;
