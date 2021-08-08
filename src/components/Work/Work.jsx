@@ -3,7 +3,7 @@ import ProjectCard from '../ProjectCard';
 import projects from '../../assets/projects.json';
 
 function Work() {
-    const [ projectsList, setProjectsList ] = useState(projects);
+    const [ projectsList] = useState(projects);
     // load projects .json file into the project and then map over the array to generate card
     return (
         <section id='work'>
