@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/macks-react-portfolio/static/css/main.99a8f004.chunk.css",
+    "main.js": "/macks-react-portfolio/static/js/main.78815e4c.chunk.js",
+    "main.js.map": "/macks-react-portfolio/static/js/main.78815e4c.chunk.js.map",
+    "runtime-main.js": "/macks-react-portfolio/static/js/runtime-main.e6c6d343.js",
+    "runtime-main.js.map": "/macks-react-portfolio/static/js/runtime-main.e6c6d343.js.map",
+    "static/css/2.0c1cfe8c.chunk.css": "/macks-react-portfolio/static/css/2.0c1cfe8c.chunk.css",
+    "static/js/2.1bae0d09.chunk.js": "/macks-react-portfolio/static/js/2.1bae0d09.chunk.js",
+    "static/js/2.1bae0d09.chunk.js.map": "/macks-react-portfolio/static/js/2.1bae0d09.chunk.js.map",
+    "index.html": "/macks-react-portfolio/index.html",
+    "static/css/2.0c1cfe8c.chunk.css.map": "/macks-react-portfolio/static/css/2.0c1cfe8c.chunk.css.map",
+    "static/css/main.99a8f004.chunk.css.map": "/macks-react-portfolio/static/css/main.99a8f004.chunk.css.map",
+    "static/js/2.1bae0d09.chunk.js.LICENSE.txt": "/macks-react-portfolio/static/js/2.1bae0d09.chunk.js.LICENSE.txt",
+    "static/media/1.jpg": "/macks-react-portfolio/static/media/1.e9801016.jpg",
+    "static/media/2.jpg": "/macks-react-portfolio/static/media/2.c4501aef.jpg",
+    "static/media/3.jpg": "/macks-react-portfolio/static/media/3.2f074da8.jpg",
+    "static/media/4.jpg": "/macks-react-portfolio/static/media/4.7e864ed2.jpg",
+    "static/media/5.jpg": "/macks-react-portfolio/static/media/5.504e35e8.jpg",
+    "static/media/IMG_6609.f4ebe44b.JPG": "/macks-react-portfolio/static/media/IMG_6609.f4ebe44b.JPG",
+    "static/media/Macks-resume2021.b116c678.pdf": "/macks-react-portfolio/static/media/Macks-resume2021.b116c678.pdf",
+    "static/media/bootstrap-icons.css": "/macks-react-portfolio/static/media/bootstrap-icons.dfd0ea12.woff2",
+    "static/media/hero-bg-react-portfolio.jpg": "/macks-react-portfolio/static/media/hero-bg-react-portfolio.61e70655.jpg",
+    "static/media/mack-resume2021-preview.a2184a64.png": "/macks-react-portfolio/static/media/mack-resume2021-preview.a2184a64.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e6c6d343.js",
+    "static/css/2.0c1cfe8c.chunk.css",
+    "static/js/2.1bae0d09.chunk.js",
+    "static/css/main.99a8f004.chunk.css",
+    "static/js/main.78815e4c.chunk.js"
+  ]
+}
