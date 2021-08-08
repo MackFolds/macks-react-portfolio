@@ -1,5 +1,6 @@
 {
   "name": "mack-portfolio",
+  "homepage": "https://mackfolds.github.io/macks-react-portfolio/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
