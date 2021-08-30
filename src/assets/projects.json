@@ -42,5 +42,16 @@
         "tools1":"HTML/CSS/JavaScript/ES6",
         "tools2":"Bootstrap"
 
+    },
+    {
+        "id":5,
+        "title":"Bloggitory",
+        "link":" git@github.com:MackFolds/Bloggitory.git",
+        "github":" git@github.com:MackFolds/Bloggitory.git",
+        "alt":"This is a simple My Blog App that allows a user can create, edit, and delete a post.",
+        "description":"Okta NodeJS OIDC Middleware for authentication. The back-end will use Express.js to power the server, Sequelize for storing and manipulating data, and Epilogue for automatically generating REST endpoints and controllers from the Sequelize data models. users have to sign in before being allowed to do any CRUD (create, read, update, delete) actions.",
+        "tools1":"HTML/CSS/JavaScript/ES6",
+        "tools2":"Bootstrap/okta/NodeJS/Epilogue/Sequelize"
+
     }
 ]
